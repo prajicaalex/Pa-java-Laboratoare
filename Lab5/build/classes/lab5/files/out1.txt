@@ -1,0 +1,9 @@
+1
+book1
+[title=The Woman in Black, author=Susan Hill, year=2000]
+2
+article1
+[title=Coronavirus in the world, publishingDate=17.03.2020]
+3
+newspaper1
+[title=Ziarul de Iasi]
